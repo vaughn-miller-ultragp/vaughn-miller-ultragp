@@ -17,6 +17,6 @@ I aim to work in the automotive/motorsport industry, and I am
 excited about the future of powertrain technology, strategy,
 safety, and sustainability.
 
-##Go Fast, Go With the Flow 🏎️🏎️🏎️
+## Go Fast, Go With the Flow 🏎️🏎️🏎️
 
 
