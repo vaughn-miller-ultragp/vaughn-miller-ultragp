@@ -1,8 +1,0 @@
-# ninja log v5
-24	101	7637999690480733	CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj	65f512b1e8d83bc4
-23	256	7685218514079946	CMakeFiles/f303-test.dir/Src/main.c.obj	5913c86e85055ee8
-19	145	7637999690920814	CMakeFiles/f303-test.dir/Src/sysmem.c.obj	beef98e5ad35b48b
-257	418	7685218515040170	f303-test.elf	5aeaf197c68b2d5b
-22	257	7649533421903015	CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj	2f61545537c0c76c
-14	208	7637999691551057	CMakeFiles/f303-test.dir/Src/syscall.c.obj	5dc0fbf4d0cf7326
-27	613	7645472766903130	CMakeFiles/f303-test.dir/Src/clockconfig.c.obj	c08276c38ce9965

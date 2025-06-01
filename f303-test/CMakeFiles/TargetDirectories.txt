@@ -1,3 +1,0 @@
-C:/Users/vmill/Documents/STM Projects/f303-test/CMakeFiles/f303-test.dir
-C:/Users/vmill/Documents/STM Projects/f303-test/CMakeFiles/edit_cache.dir
-C:/Users/vmill/Documents/STM Projects/f303-test/CMakeFiles/rebuild_cache.dir
