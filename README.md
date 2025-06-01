@@ -1,4 +1,4 @@
-### Hello, and Welcome!
+# Hello, and Welcome!
 
 My name is Vaughn, and this is my personal repository. 
 I am a graduate with a Bachelor's in Computer Engineering
