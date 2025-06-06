@@ -17,6 +17,9 @@ I aim to work in the automotive/motorsport industry, and I am
 excited about the future of powertrain technology, strategy,
 safety, and sustainability.
 
+A little late to the proper personal github party but here 
+regardless :)
+
 ## Go Fast, Go With the Flow 🏎️🏎️🏎️
 
 
