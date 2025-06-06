@@ -6,7 +6,7 @@
 # It is included in the main 'build.ninja'.
 
 # =============================================================================
-# Project: f303-test
+# Project: f303-template_MAXCLK
 # Configurations: Debug
 # =============================================================================
 # =============================================================================
@@ -14,7 +14,7 @@
 #############################################
 # Rule for compiling ASM files.
 
-rule ASM_COMPILER__f303-test_unscanned_Debug
+rule ASM_COMPILER__f303-template_MAXCLK_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
   command = ${LAUNCHER}${CODE_CHECK}C:\ST\STM32CubeCLT_1.17.0\GNU-tools-for-STM32\bin\arm-none-eabi-gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -24,7 +24,7 @@ rule ASM_COMPILER__f303-test_unscanned_Debug
 #############################################
 # Rule for compiling C files.
 
-rule C_COMPILER__f303-test_unscanned_Debug
+rule C_COMPILER__f303-template_MAXCLK_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
   command = ${LAUNCHER}${CODE_CHECK}C:\ST\STM32CubeCLT_1.17.0\GNU-tools-for-STM32\bin\arm-none-eabi-gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -34,7 +34,7 @@ rule C_COMPILER__f303-test_unscanned_Debug
 #############################################
 # Rule for linking C executable.
 
-rule C_EXECUTABLE_LINKER__f303-test_Debug
+rule C_EXECUTABLE_LINKER__f303-template_MAXCLK_Debug
   command = C:\Windows\system32\cmd.exe /C "$PRE_LINK && C:\ST\STM32CubeCLT_1.17.0\GNU-tools-for-STM32\bin\arm-none-eabi-gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking C executable $TARGET_FILE
   restat = $RESTAT
@@ -52,7 +52,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\ST\STM32CubeCLT_1.17.0\CMake\bin\cmake.exe --regenerate-during-build -S"C:\Users\vmill\Documents\STM Projects\f303-test" -B"C:\Users\vmill\Documents\STM Projects\f303-test\build\debug"
+  command = C:\ST\STM32CubeCLT_1.17.0\CMake\bin\cmake.exe --regenerate-during-build -S"C:\Users\vmill\Documents\STM Projects\f303-template_MAXCLK" -B"C:\Users\vmill\Documents\STM Projects\f303-template_MAXCLK\build\debug"
   description = Re-running CMake...
   generator = 1
 

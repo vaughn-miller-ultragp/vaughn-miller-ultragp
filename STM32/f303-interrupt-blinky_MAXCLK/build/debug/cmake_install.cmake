@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/vmill/Documents/STM Projects/f303-test
+# Install script for directory: C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/f303-test")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/f303-interrupt-blinky_MAXCLK")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/vmill/Documents/STM Projects/f303-test/build/debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/build/debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

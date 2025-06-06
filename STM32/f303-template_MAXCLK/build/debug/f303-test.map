@@ -1,9 +1,9 @@
 Archive member included to satisfy reference by file (symbol)
 
 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o)
-                              CMakeFiles/f303-test.dir/Src/syscall.c.obj (__errno)
+                              CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj (__errno)
 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
-                              CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj (__libc_init_array)
+                              CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj (__libc_init_array)
 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-impure.o)
                               C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o) (_impure_ptr)
 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-findfp.o)
@@ -43,239 +43,239 @@ C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.
 
 Discarded input sections
 
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .text          0x00000000        0x0 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .data          0x00000000        0x0 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .bss           0x00000000        0x0 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
  .text.SystemCoreClockUpdate
-                0x00000000       0x8c CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+                0x00000000       0x8c CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
  .rodata.APBPrescTable
-                0x00000000        0x8 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+                0x00000000        0x8 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
  .rodata.AHBPrescTable
-                0x00000000       0x10 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+                0x00000000       0x10 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
  .data.SystemCoreClock
-                0x00000000        0x4 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/main.c.obj
- .text          0x00000000        0x0 CMakeFiles/f303-test.dir/Src/main.c.obj
- .data          0x00000000        0x0 CMakeFiles/f303-test.dir/Src/main.c.obj
- .bss           0x00000000        0x0 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000      0xaae CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000       0x8e CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000       0x51 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000      0x103 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000       0x6a CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000      0x1df CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000       0x2e CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000       0x28 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000       0x1c CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000      0x107 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000     0x1057 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000      0x11f CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000    0x12a3a CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00000000       0x6d CMakeFiles/f303-test.dir/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text          0x00000000        0x0 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .data          0x00000000        0x0 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .bss           0x00000000        0x0 CMakeFiles/f303-test.dir/Src/syscall.c.obj
+                0x00000000        0x4 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000      0xaae CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x28 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000      0x107 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000     0x1057 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000      0x11f CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000    0x12a3a CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00000000       0x6d CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text          0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .data          0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
  .text.initialise_monitor_handles
-                0x00000000        0x2 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._getpid  0x00000000        0x4 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._kill    0x00000000       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._exit    0x00000000        0xc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._read    0x00000000       0x20 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._write   0x00000000       0x1c CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._close   0x00000000        0x6 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._fstat   0x00000000        0xa CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._isatty  0x00000000        0x4 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._lseek   0x00000000        0x4 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._open    0x00000000        0xa CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._wait    0x00000000       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._unlink  0x00000000       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._times   0x00000000        0x6 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._stat    0x00000000        0xa CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._link    0x00000000       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._fork    0x00000000       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .text._execve  0x00000000       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .data.environ  0x00000000        0x4 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .bss.__env     0x00000000        0x4 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000      0xaae CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x2a CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x3c CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x34 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000      0x369 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x16 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x43 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x34 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x58 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000      0x1de CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x6a CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000       0x16 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000      0x170 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000      0x103 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00000000      0x1df CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .group         0x00000000        0xc CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .text          0x00000000        0x0 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .data          0x00000000        0x0 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .bss           0x00000000        0x0 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .text._sbrk    0x00000000       0x48 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
+                0x00000000        0x2 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._read    0x00000000       0x20 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0xaae CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x369 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x1de CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x170 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .text          0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .data          0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .text._sbrk    0x00000000       0x48 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
  .bss.__sbrk_heap_end
-                0x00000000        0x4 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_info    0x00000000      0x175 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_abbrev  0x00000000       0xec CMakeFiles/f303-test.dir/Src/sysmem.c.obj
+                0x00000000        0x4 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_info    0x00000000      0x175 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_abbrev  0x00000000       0xec CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
  .debug_loclists
-                0x00000000       0x46 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
+                0x00000000       0x46 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
  .debug_aranges
-                0x00000000       0x20 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
+                0x00000000       0x20 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
  .debug_rnglists
-                0x00000000       0x13 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0xec CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000      0xaae CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x10 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x6e CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x2a CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x94 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x3c CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x34 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000      0x189 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x16 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x43 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x57 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x34 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x10 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x58 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000      0x1de CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000      0x23c CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000      0x103 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000       0x6a CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_macro   0x00000000      0x1df CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_line    0x00000000      0x368 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_str     0x00000000     0x5adb CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .comment       0x00000000       0x44 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .debug_frame   0x00000000       0x28 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
+                0x00000000       0x13 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0xec CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0xaae CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x6e CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x94 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0x189 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x57 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0x1de CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0x23c CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_line    0x00000000      0x368 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_str     0x00000000     0x5adb CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .debug_frame   0x00000000       0x28 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
  .ARM.attributes
-                0x00000000       0x34 CMakeFiles/f303-test.dir/Src/sysmem.c.obj
- .text          0x00000000       0x14 CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
- .data          0x00000000        0x0 CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
- .bss           0x00000000        0x0 CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+                0x00000000       0x34 CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+ .text          0x00000000       0x14 CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-errno.o)
@@ -529,11 +529,11 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
 LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++.a
 LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++.a
 END GROUP
-LOAD CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
-LOAD CMakeFiles/f303-test.dir/Src/main.c.obj
-LOAD CMakeFiles/f303-test.dir/Src/syscall.c.obj
-LOAD CMakeFiles/f303-test.dir/Src/sysmem.c.obj
-LOAD CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+LOAD CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+LOAD CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+LOAD CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+LOAD CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj
+LOAD CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
                 0x2000a000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
                 0x00000200                        _Min_Heap_Size = 0x200
                 0x00000400                        _Min_Stack_Size = 0x400
@@ -541,7 +541,7 @@ LOAD CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
 .isr_vector     0x08000000      0x194
                 0x08000000                        . = ALIGN (0x4)
  *(.isr_vector)
- .isr_vector    0x08000000      0x194 CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+ .isr_vector    0x08000000      0x194 CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
                 0x08000000                g_pfnVectors
                 0x08000194                        . = ALIGN (0x4)
 
@@ -550,27 +550,27 @@ LOAD CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
  *(.text)
  *(.text*)
  .text.SetSysClock
-                0x08000194       0xb0 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+                0x08000194       0xb0 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
  .text.SystemInit
-                0x08000244       0x68 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+                0x08000244       0x68 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
                 0x08000244                SystemInit
  .text.startGPIO
-                0x080002ac       0x28 CMakeFiles/f303-test.dir/Src/main.c.obj
+                0x080002ac       0x28 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
  .text.startTIM
-                0x080002d4       0x54 CMakeFiles/f303-test.dir/Src/main.c.obj
- .text.main     0x08000328       0x1c CMakeFiles/f303-test.dir/Src/main.c.obj
+                0x080002d4       0x54 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .text.main     0x08000328       0x1c CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
                 0x08000328                main
  .text.TIM6_DACUNDER_IRQHandler
-                0x08000344       0x1c CMakeFiles/f303-test.dir/Src/main.c.obj
+                0x08000344       0x1c CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
                 0x08000344                TIM6_DACUNDER_IRQHandler
- .text._init    0x08000360        0x2 CMakeFiles/f303-test.dir/Src/syscall.c.obj
+ .text._init    0x08000360        0x2 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
                 0x08000360                _init
  *fill*         0x08000362        0x2 
  .text.Reset_Handler
-                0x08000364       0x50 CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+                0x08000364       0x50 CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
                 0x08000364                Reset_Handler
  .text.Default_Handler
-                0x080003b4        0x2 CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+                0x080003b4        0x2 CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
                 0x080003b4                TIM8_TRG_COM_IRQHandler
                 0x080003b4                TIM8_CC_IRQHandler
                 0x080003b4                DMA1_CH4_IRQHandler
@@ -673,10 +673,10 @@ LOAD CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
  .v4_bx         0x08000400        0x0 linker stubs
 
 .iplt           0x08000400        0x0
- .iplt          0x08000400        0x0 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .iplt          0x08000400        0x0 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
 
 .rel.dyn        0x08000400        0x0
- .rel.iplt      0x08000400        0x0 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .rel.iplt      0x08000400        0x0 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
 
 .rodata         0x08000400        0x0
                 0x08000400                        . = ALIGN (0x4)
@@ -732,7 +732,7 @@ LOAD CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
                 0x08000400                        _siccmram = LOADADDR (.ccmram)
 
 .igot.plt       0x20000000        0x0 load address 0x08000400
- .igot.plt      0x20000000        0x0 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .igot.plt      0x20000000        0x0 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
 
 .ccmram         0x10000000        0x0 load address 0x08000400
                 0x10000000                        . = ALIGN (0x4)
@@ -773,160 +773,160 @@ LOAD CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
                 0x00000000       0x32
  *(.ARM.attributes)
  .ARM.attributes
-                0x00000000       0x34 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+                0x00000000       0x34 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
  .ARM.attributes
-                0x00000034       0x34 CMakeFiles/f303-test.dir/Src/main.c.obj
+                0x00000034       0x34 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
  .ARM.attributes
-                0x00000068       0x34 CMakeFiles/f303-test.dir/Src/syscall.c.obj
+                0x00000068       0x34 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
  .ARM.attributes
-                0x0000009c       0x21 CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+                0x0000009c       0x21 CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
  .ARM.attributes
                 0x000000bd       0x34 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
-OUTPUT(f303-test.elf elf32-littlearm)
+OUTPUT(f303-template_MAXCLK.elf elf32-littlearm)
 LOAD linker stubs
 LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
 LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
 LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard\libgcc.a
 
 .debug_info     0x00000000     0x1630
- .debug_info    0x00000000      0x4fc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_info    0x000004fc      0x96b CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_info    0x00000e67      0x799 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_info    0x00001600       0x30 CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+ .debug_info    0x00000000      0x4fc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_info    0x000004fc      0x96b CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_info    0x00000e67      0x799 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_info    0x00001600       0x30 CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
 
 .debug_abbrev   0x00000000      0x555
- .debug_abbrev  0x00000000      0x17b CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_abbrev  0x0000017b      0x1da CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_abbrev  0x00000355      0x1dc CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_abbrev  0x00000531       0x24 CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+ .debug_abbrev  0x00000000      0x17b CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_abbrev  0x0000017b      0x1da CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_abbrev  0x00000355      0x1dc CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_abbrev  0x00000531       0x24 CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
 
 .debug_loclists
                 0x00000000      0x349
  .debug_loclists
-                0x00000000       0xbc CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+                0x00000000       0xbc CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
  .debug_loclists
-                0x000000bc       0x32 CMakeFiles/f303-test.dir/Src/main.c.obj
+                0x000000bc       0x32 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
  .debug_loclists
-                0x000000ee      0x25b CMakeFiles/f303-test.dir/Src/syscall.c.obj
+                0x000000ee      0x25b CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
 
 .debug_aranges  0x00000000      0x140
  .debug_aranges
-                0x00000000       0x30 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+                0x00000000       0x30 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
  .debug_aranges
-                0x00000030       0x38 CMakeFiles/f303-test.dir/Src/main.c.obj
+                0x00000030       0x38 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
  .debug_aranges
-                0x00000068       0xb0 CMakeFiles/f303-test.dir/Src/syscall.c.obj
+                0x00000068       0xb0 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
  .debug_aranges
-                0x00000118       0x28 CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+                0x00000118       0x28 CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
 
 .debug_rnglists
                 0x00000000       0xde
  .debug_rnglists
-                0x00000000       0x21 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+                0x00000000       0x21 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
  .debug_rnglists
-                0x00000021       0x25 CMakeFiles/f303-test.dir/Src/main.c.obj
+                0x00000021       0x25 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
  .debug_rnglists
-                0x00000046       0x7f CMakeFiles/f303-test.dir/Src/syscall.c.obj
+                0x00000046       0x7f CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
  .debug_rnglists
-                0x000000c5       0x19 CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+                0x000000c5       0x19 CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
 
 .debug_macro    0x00000000    0x1686e
- .debug_macro   0x00000000       0xda CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x000000da      0xaae CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00000b88       0x2e CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00000bb6       0x28 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00000bde       0x22 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00000c00       0x8e CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00000c8e       0x51 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00000cdf      0x103 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00000de2       0x6a CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00000e4c      0x1df CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x0000102b       0x1c CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00001047       0x22 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00001069      0x107 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00001170     0x1057 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x000021c7      0x11f CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x000022e6    0x12a3a CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00014d20       0x6d CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_macro   0x00014d8d      0x1b4 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00014f41       0x74 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00014fb5       0x2a CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00014fdf       0x3c CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x0001501b       0x34 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x0001504f       0x16 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00015065       0x9e CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00015103      0x369 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x0001546c      0x10b CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00015577       0x10 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00015587       0x16 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x0001559d       0x43 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x000155e0       0x34 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00015614       0x10 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00015624       0x58 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x0001567c      0x1de CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x0001585a       0x16 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00015870       0x16 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x00015886      0x170 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_macro   0x000159f6      0x265 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00015c5b       0x6e CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00015cc9       0x94 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00015d5d       0x57 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00015db4      0x189 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00015f3d       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00015f4d       0x35 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00015f82       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00015f92       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00015fa2       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00015fb2       0x1c CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00015fce       0x52 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00016020       0x22 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00016042       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00016052       0x52 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x000160a4       0xcf CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00016173       0x1c CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x0001618f       0x3d CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x000161cc       0x35 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00016201      0x12c CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x0001632d       0x16 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00016343       0x16 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00016359       0x29 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00016382       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00016392      0x242 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x000165d4       0x1c CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x000165f0       0x10 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x00016600      0x18a CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x0001678a       0x16 CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_macro   0x000167a0       0xce CMakeFiles/f303-test.dir/Src/syscall.c.obj
+ .debug_macro   0x00000000       0xda CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x000000da      0xaae CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00000b88       0x2e CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00000bb6       0x28 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00000bde       0x22 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00000c00       0x8e CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00000c8e       0x51 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00000cdf      0x103 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00000de2       0x6a CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00000e4c      0x1df CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x0000102b       0x1c CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00001047       0x22 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00001069      0x107 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00001170     0x1057 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x000021c7      0x11f CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x000022e6    0x12a3a CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00014d20       0x6d CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_macro   0x00014d8d      0x1b4 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00014f41       0x74 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00014fb5       0x2a CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00014fdf       0x3c CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x0001501b       0x34 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x0001504f       0x16 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00015065       0x9e CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00015103      0x369 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x0001546c      0x10b CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00015577       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00015587       0x16 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x0001559d       0x43 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x000155e0       0x34 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00015614       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00015624       0x58 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x0001567c      0x1de CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x0001585a       0x16 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00015870       0x16 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x00015886      0x170 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_macro   0x000159f6      0x265 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00015c5b       0x6e CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00015cc9       0x94 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00015d5d       0x57 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00015db4      0x189 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00015f3d       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00015f4d       0x35 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00015f82       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00015f92       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00015fa2       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00015fb2       0x1c CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00015fce       0x52 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00016020       0x22 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00016042       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00016052       0x52 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x000160a4       0xcf CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00016173       0x1c CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x0001618f       0x3d CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x000161cc       0x35 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00016201      0x12c CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x0001632d       0x16 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00016343       0x16 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00016359       0x29 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00016382       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00016392      0x242 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x000165d4       0x1c CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x000165f0       0x10 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x00016600      0x18a CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x0001678a       0x16 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_macro   0x000167a0       0xce CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
 
 .debug_line     0x00000000     0x12e2
- .debug_line    0x00000000      0x618 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_line    0x00000618      0x540 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_line    0x00000b58      0x70f CMakeFiles/f303-test.dir/Src/syscall.c.obj
- .debug_line    0x00001267       0x7b CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+ .debug_line    0x00000000      0x618 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_line    0x00000618      0x540 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_line    0x00000b58      0x70f CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
+ .debug_line    0x00001267       0x7b CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
 
 .debug_str      0x00000000    0x78968
- .debug_str     0x00000000    0x72ea4 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_str     0x00000000    0x72ea4 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
                               0x7301a (size before relaxing)
- .debug_str     0x00072ea4     0x3961 CMakeFiles/f303-test.dir/Src/main.c.obj
+ .debug_str     0x00072ea4     0x3961 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
                               0x769f4 (size before relaxing)
- .debug_str     0x00076805     0x20f7 CMakeFiles/f303-test.dir/Src/syscall.c.obj
+ .debug_str     0x00076805     0x20f7 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
                                0x936d (size before relaxing)
- .debug_str     0x000788fc       0x6c CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+ .debug_str     0x000788fc       0x6c CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
                                  0xa8 (size before relaxing)
 
 .comment        0x00000000       0x43
- .comment       0x00000000       0x43 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .comment       0x00000000       0x43 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
                                  0x44 (size before relaxing)
- .comment       0x00000043       0x44 CMakeFiles/f303-test.dir/Src/main.c.obj
- .comment       0x00000043       0x44 CMakeFiles/f303-test.dir/Src/syscall.c.obj
+ .comment       0x00000043       0x44 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .comment       0x00000043       0x44 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
 
 .debug_frame    0x00000000      0x278
- .debug_frame   0x00000000       0x54 CMakeFiles/f303-test.dir/CMSIS/Source/system_stm32f3xx.c.obj
- .debug_frame   0x00000054       0x58 CMakeFiles/f303-test.dir/Src/main.c.obj
- .debug_frame   0x000000ac      0x1a0 CMakeFiles/f303-test.dir/Src/syscall.c.obj
+ .debug_frame   0x00000000       0x54 CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj
+ .debug_frame   0x00000054       0x58 CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj
+ .debug_frame   0x000000ac      0x1a0 CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj
  .debug_frame   0x0000024c       0x2c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
 
 .debug_line_str
                 0x00000000       0x8c
  .debug_line_str
-                0x00000000       0x8c CMakeFiles/f303-test.dir/Startup/startup_stm32f303vctx.s.obj
+                0x00000000       0x8c CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj

@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "f303-test.elf"
+			"path" : "f303-interrupt-blinky_MAXCLK.elf"
 		}
 	],
 	"backtrace" : 1,
@@ -155,15 +155,15 @@
 			[
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Include"
+					"path" : "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Include"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Core"
+					"path" : "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Core"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-test/Inc"
+					"path" : "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/Inc"
 				}
 			],
 			"language" : "C",
@@ -281,15 +281,15 @@
 			[
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Include"
+					"path" : "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Include"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Core"
+					"path" : "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Core"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-test"
+					"path" : "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK"
 				}
 			],
 			"language" : "ASM",
@@ -299,7 +299,7 @@
 			]
 		}
 	],
-	"id" : "f303-test::@6890427a1f51a3e7e1df",
+	"id" : "f303-interrupt-blinky_MAXCLK::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -314,7 +314,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "\"-TC:/Users/vmill/Documents/STM Projects/f303-test/stm32f303vctx_FLASH.ld\"",
+				"fragment" : "\"-TC:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/stm32f303vctx_FLASH.ld\"",
 				"role" : "flags"
 			},
 			{
@@ -359,7 +359,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-Map=f303-test.map",
+				"fragment" : "-Wl,-Map=f303-interrupt-blinky_MAXCLK.map",
 				"role" : "flags"
 			},
 			{
@@ -419,14 +419,14 @@
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "-L\"C:\\Users\\vmill\\Documents\\STM Projects\\f303-test\\f303-test\"",
+				"fragment" : "-L\"C:\\Users\\vmill\\Documents\\STM Projects\\f303-interrupt-blinky_MAXCLK\\f303-interrupt-blinky_MAXCLK\"",
 				"role" : "libraryPath"
 			}
 		],
 		"language" : "C"
 	},
-	"name" : "f303-test",
-	"nameOnDisk" : "f303-test.elf",
+	"name" : "f303-interrupt-blinky_MAXCLK",
+	"nameOnDisk" : "f303-interrupt-blinky_MAXCLK.elf",
 	"paths" : 
 	{
 		"build" : ".",

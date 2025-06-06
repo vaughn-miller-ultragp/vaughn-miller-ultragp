@@ -138,8 +138,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/vmill/Documents/STM Projects/f303-test/build/debug",
-		"source" : "C:/Users/vmill/Documents/STM Projects/f303-test"
+		"build" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug",
+		"source" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK"
 	},
 	"version" : 
 	{

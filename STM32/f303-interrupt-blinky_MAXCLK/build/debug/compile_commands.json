@@ -1,32 +1,32 @@
 [
 {
-  "directory": "C:/Users/vmill/Documents/STM Projects/f303-test/build/debug",
-  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-test/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-test.dir\\CMSIS\\Source\\system_stm32f3xx.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-test\\CMSIS\\Source\\system_stm32f3xx.c\"",
-  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-test\\CMSIS\\Source\\system_stm32f3xx.c",
-  "output": "CMakeFiles\\f303-test.dir\\CMSIS\\Source\\system_stm32f3xx.c.obj"
+  "directory": "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-interrupt-blinky_MAXCLK.dir\\CMSIS\\Source\\system_stm32f3xx.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-interrupt-blinky_MAXCLK\\CMSIS\\Source\\system_stm32f3xx.c\"",
+  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-interrupt-blinky_MAXCLK\\CMSIS\\Source\\system_stm32f3xx.c",
+  "output": "CMakeFiles\\f303-interrupt-blinky_MAXCLK.dir\\CMSIS\\Source\\system_stm32f3xx.c.obj"
 },
 {
-  "directory": "C:/Users/vmill/Documents/STM Projects/f303-test/build/debug",
-  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-test/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-test.dir\\Src\\main.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-test\\Src\\main.c\"",
-  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-test\\Src\\main.c",
-  "output": "CMakeFiles\\f303-test.dir\\Src\\main.c.obj"
+  "directory": "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-interrupt-blinky_MAXCLK.dir\\Src\\main.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-interrupt-blinky_MAXCLK\\Src\\main.c\"",
+  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-interrupt-blinky_MAXCLK\\Src\\main.c",
+  "output": "CMakeFiles\\f303-interrupt-blinky_MAXCLK.dir\\Src\\main.c.obj"
 },
 {
-  "directory": "C:/Users/vmill/Documents/STM Projects/f303-test/build/debug",
-  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-test/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-test.dir\\Src\\syscall.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-test\\Src\\syscall.c\"",
-  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-test\\Src\\syscall.c",
-  "output": "CMakeFiles\\f303-test.dir\\Src\\syscall.c.obj"
+  "directory": "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-interrupt-blinky_MAXCLK.dir\\Src\\syscall.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-interrupt-blinky_MAXCLK\\Src\\syscall.c\"",
+  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-interrupt-blinky_MAXCLK\\Src\\syscall.c",
+  "output": "CMakeFiles\\f303-interrupt-blinky_MAXCLK.dir\\Src\\syscall.c.obj"
 },
 {
-  "directory": "C:/Users/vmill/Documents/STM Projects/f303-test/build/debug",
-  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-test/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-test.dir\\Src\\sysmem.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-test\\Src\\sysmem.c\"",
-  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-test\\Src\\sysmem.c",
-  "output": "CMakeFiles\\f303-test.dir\\Src\\sysmem.c.obj"
+  "directory": "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-interrupt-blinky_MAXCLK.dir\\Src\\sysmem.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-interrupt-blinky_MAXCLK\\Src\\sysmem.c\"",
+  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-interrupt-blinky_MAXCLK\\Src\\sysmem.c",
+  "output": "CMakeFiles\\f303-interrupt-blinky_MAXCLK.dir\\Src\\sysmem.c.obj"
 },
 {
-  "directory": "C:/Users/vmill/Documents/STM Projects/f303-test/build/debug",
-  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-test/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-test\" -g -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g3 -ggdb -o CMakeFiles\\f303-test.dir\\Startup\\startup_stm32f303vctx.s.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-test\\Startup\\startup_stm32f303vctx.s\"",
-  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-test\\Startup\\startup_stm32f303vctx.s",
-  "output": "CMakeFiles\\f303-test.dir\\Startup\\startup_stm32f303vctx.s.obj"
+  "directory": "C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-interrupt-blinky_MAXCLK\" -g -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g3 -ggdb -o CMakeFiles\\f303-interrupt-blinky_MAXCLK.dir\\Startup\\startup_stm32f303vctx.s.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-interrupt-blinky_MAXCLK\\Startup\\startup_stm32f303vctx.s\"",
+  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-interrupt-blinky_MAXCLK\\Startup\\startup_stm32f303vctx.s",
+  "output": "CMakeFiles\\f303-interrupt-blinky_MAXCLK.dir\\Startup\\startup_stm32f303vctx.s.obj"
 }
 ]
