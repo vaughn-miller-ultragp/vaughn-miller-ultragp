@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug",
-		"source" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK"
+		"build" : "./f303-template_MAXCLK/build/debug",
+		"source" : "./f303-template_MAXCLK"
 	},
 	"version" : 
 	{

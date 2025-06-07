@@ -53,7 +53,7 @@ build CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj: C
   DEFINES = -DDEBUG -DSTM32F303xC
   DEP_FILE = CMakeFiles\f303-template_MAXCLK.dir\CMSIS\Source\system_stm32f3xx.c.obj.d
   FLAGS = -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb
-  INCLUDES = -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include" -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core" -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc"
+  INCLUDES = -I"./f303-template_MAXCLK/CMSIS/Include" -I"./f303-template_MAXCLK/CMSIS/Core" -I"./f303-template_MAXCLK/Inc"
   OBJECT_DIR = CMakeFiles\f303-template_MAXCLK.dir
   OBJECT_FILE_DIR = CMakeFiles\f303-template_MAXCLK.dir\CMSIS\Source
 
@@ -61,7 +61,7 @@ build CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj: C_COMPILER__f303-templ
   DEFINES = -DDEBUG -DSTM32F303xC
   DEP_FILE = CMakeFiles\f303-template_MAXCLK.dir\Src\main.c.obj.d
   FLAGS = -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb
-  INCLUDES = -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include" -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core" -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc"
+  INCLUDES = -I"./f303-template_MAXCLK/CMSIS/Include" -I"./f303-template_MAXCLK/CMSIS/Core" -I"./f303-template_MAXCLK/Inc"
   OBJECT_DIR = CMakeFiles\f303-template_MAXCLK.dir
   OBJECT_FILE_DIR = CMakeFiles\f303-template_MAXCLK.dir\Src
 
@@ -69,7 +69,7 @@ build CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj: C_COMPILER__f303-te
   DEFINES = -DDEBUG -DSTM32F303xC
   DEP_FILE = CMakeFiles\f303-template_MAXCLK.dir\Src\syscall.c.obj.d
   FLAGS = -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb
-  INCLUDES = -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include" -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core" -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc"
+  INCLUDES = -I"./f303-template_MAXCLK/CMSIS/Include" -I"./f303-template_MAXCLK/CMSIS/Core" -I"./f303-template_MAXCLK/Inc"
   OBJECT_DIR = CMakeFiles\f303-template_MAXCLK.dir
   OBJECT_FILE_DIR = CMakeFiles\f303-template_MAXCLK.dir\Src
 
@@ -77,7 +77,7 @@ build CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj: C_COMPILER__f303-tem
   DEFINES = -DDEBUG -DSTM32F303xC
   DEP_FILE = CMakeFiles\f303-template_MAXCLK.dir\Src\sysmem.c.obj.d
   FLAGS = -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb
-  INCLUDES = -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include" -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core" -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc"
+  INCLUDES = -I"./f303-template_MAXCLK/CMSIS/Include" -I"./f303-template_MAXCLK/CMSIS/Core" -I"./f303-template_MAXCLK/Inc"
   OBJECT_DIR = CMakeFiles\f303-template_MAXCLK.dir
   OBJECT_FILE_DIR = CMakeFiles\f303-template_MAXCLK.dir\Src
 
@@ -85,7 +85,7 @@ build CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj: A
   DEFINES = -DDEBUG -DSTM32F303xC
   DEP_FILE = CMakeFiles\f303-template_MAXCLK.dir\Startup\startup_stm32f303vctx.s.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g3 -ggdb
-  INCLUDES = -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include" -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core" -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK"
+  INCLUDES = -I"./f303-template_MAXCLK/CMSIS/Include" -I"./f303-template_MAXCLK/CMSIS/Core" -I"./f303-template_MAXCLK"
   OBJECT_DIR = CMakeFiles\f303-template_MAXCLK.dir
   OBJECT_FILE_DIR = CMakeFiles\f303-template_MAXCLK.dir\Startup
 
@@ -99,10 +99,10 @@ build CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj: A
 
 build f303-template_MAXCLK.elf: C_EXECUTABLE_LINKER__f303-template_MAXCLK_Debug CMakeFiles/f303-template_MAXCLK.dir/CMSIS/Source/system_stm32f3xx.c.obj CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
   FLAGS = -fdata-sections -ffunction-sections -Wl,--gc-sections -g
-  LINK_FLAGS = "-TC:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/stm32f303vctx_FLASH.ld" -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wl,-Map=f303-template_MAXCLK.map -u _printf_float --specs=nosys.specs -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group -Wl,-z,max-page-size=8 -Wl,--print-memory-usage
-  LINK_PATH = -L"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/f303-template_MAXCLK"
+  LINK_FLAGS = "-T./f303-template_MAXCLK/stm32f303vctx_FLASH.ld" -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wl,-Map=f303-template_MAXCLK.map -u _printf_float --specs=nosys.specs -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group -Wl,-z,max-page-size=8 -Wl,--print-memory-usage
+  LINK_PATH = -L"./f303-template_MAXCLK/f303-template_MAXCLK"
   OBJECT_DIR = CMakeFiles\f303-template_MAXCLK.dir
-  POST_BUILD = C:\Windows\system32\cmd.exe /C "cd /D "C:\Users\vmill\Documents\STM Projects\f303-template_MAXCLK\build\debug" && arm-none-eabi-size "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/f303-template_MAXCLK.elf" && arm-none-eabi-objcopy -O ihex "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/f303-template_MAXCLK.elf" f303-template_MAXCLK.hex && arm-none-eabi-objcopy -O binary "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/f303-template_MAXCLK.elf" f303-template_MAXCLK.bin"
+  POST_BUILD = C:\Windows\system32\cmd.exe /C "cd /D "C:\Users\vmill\Documents\STM Projects\f303-template_MAXCLK\build\debug" && arm-none-eabi-size "./f303-template_MAXCLK/build/debug/f303-template_MAXCLK.elf" && arm-none-eabi-objcopy -O ihex "./f303-template_MAXCLK/build/debug/f303-template_MAXCLK.elf" f303-template_MAXCLK.hex && arm-none-eabi-objcopy -O binary "./f303-template_MAXCLK/build/debug/f303-template_MAXCLK.elf" f303-template_MAXCLK.bin"
   PRE_LINK = cd .
   TARGET_FILE = f303-template_MAXCLK.elf
   TARGET_PDB = f303-template_MAXCLK.elf.dbg
@@ -142,7 +142,7 @@ build f303-template_MAXCLK: phony f303-template_MAXCLK.elf
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug
+# Folder: ./f303-template_MAXCLK/build/debug
 
 build all: phony f303-template_MAXCLK.elf
 

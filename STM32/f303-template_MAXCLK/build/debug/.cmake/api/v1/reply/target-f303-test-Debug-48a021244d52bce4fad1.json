@@ -155,15 +155,15 @@
 			[
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include"
+					"path" : "./f303-template_MAXCLK/CMSIS/Include"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core"
+					"path" : "./f303-template_MAXCLK/CMSIS/Core"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc"
+					"path" : "./f303-template_MAXCLK/Inc"
 				}
 			],
 			"language" : "C",
@@ -281,15 +281,15 @@
 			[
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include"
+					"path" : "./f303-template_MAXCLK/CMSIS/Include"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core"
+					"path" : "./f303-template_MAXCLK/CMSIS/Core"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK"
+					"path" : "./f303-template_MAXCLK"
 				}
 			],
 			"language" : "ASM",
@@ -314,7 +314,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "\"-TC:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/stm32f303vctx_FLASH.ld\"",
+				"fragment" : "\"-T./f303-template_MAXCLK/stm32f303vctx_FLASH.ld\"",
 				"role" : "flags"
 			},
 			{
@@ -419,7 +419,7 @@
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "-L\"C:\\Users\\vmill\\Documents\\STM Projects\\f303-template_MAXCLK\\f303-template_MAXCLK\"",
+				"fragment" : "-L\"./f303-template_MAXCLK\\f303-template_MAXCLK\"",
 				"role" : "libraryPath"
 			}
 		],

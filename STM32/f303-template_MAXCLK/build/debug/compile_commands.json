@@ -1,32 +1,32 @@
 [
 {
-  "directory": "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug",
-  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-template_MAXCLK.dir\\CMSIS\\Source\\system_stm32f3xx.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-template_MAXCLK\\CMSIS\\Source\\system_stm32f3xx.c\"",
-  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-template_MAXCLK\\CMSIS\\Source\\system_stm32f3xx.c",
+  "directory": "./f303-template_MAXCLK/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"./f303-template_MAXCLK/CMSIS/Include\" -I\"./f303-template_MAXCLK/CMSIS/Core\" -I\"./f303-template_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-template_MAXCLK.dir\\CMSIS\\Source\\system_stm32f3xx.c.obj -c \"./f303-template_MAXCLK\\CMSIS\\Source\\system_stm32f3xx.c\"",
+  "file": "./f303-template_MAXCLK\\CMSIS\\Source\\system_stm32f3xx.c",
   "output": "CMakeFiles\\f303-template_MAXCLK.dir\\CMSIS\\Source\\system_stm32f3xx.c.obj"
 },
 {
-  "directory": "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug",
-  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-template_MAXCLK.dir\\Src\\main.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-template_MAXCLK\\Src\\main.c\"",
-  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-template_MAXCLK\\Src\\main.c",
+  "directory": "./f303-template_MAXCLK/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"./f303-template_MAXCLK/CMSIS/Include\" -I\"./f303-template_MAXCLK/CMSIS/Core\" -I\"./f303-template_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-template_MAXCLK.dir\\Src\\main.c.obj -c \"./f303-template_MAXCLK\\Src\\main.c\"",
+  "file": "./f303-template_MAXCLK\\Src\\main.c",
   "output": "CMakeFiles\\f303-template_MAXCLK.dir\\Src\\main.c.obj"
 },
 {
-  "directory": "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug",
-  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-template_MAXCLK.dir\\Src\\syscall.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-template_MAXCLK\\Src\\syscall.c\"",
-  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-template_MAXCLK\\Src\\syscall.c",
+  "directory": "./f303-template_MAXCLK/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"./f303-template_MAXCLK/CMSIS/Include\" -I\"./f303-template_MAXCLK/CMSIS/Core\" -I\"./f303-template_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-template_MAXCLK.dir\\Src\\syscall.c.obj -c \"./f303-template_MAXCLK\\Src\\syscall.c\"",
+  "file": "./f303-template_MAXCLK\\Src\\syscall.c",
   "output": "CMakeFiles\\f303-template_MAXCLK.dir\\Src\\syscall.c.obj"
 },
 {
-  "directory": "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug",
-  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-template_MAXCLK.dir\\Src\\sysmem.c.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-template_MAXCLK\\Src\\sysmem.c\"",
-  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-template_MAXCLK\\Src\\sysmem.c",
+  "directory": "./f303-template_MAXCLK/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"./f303-template_MAXCLK/CMSIS/Include\" -I\"./f303-template_MAXCLK/CMSIS/Core\" -I\"./f303-template_MAXCLK/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\f303-template_MAXCLK.dir\\Src\\sysmem.c.obj -c \"./f303-template_MAXCLK\\Src\\sysmem.c\"",
+  "file": "./f303-template_MAXCLK\\Src\\sysmem.c",
   "output": "CMakeFiles\\f303-template_MAXCLK.dir\\Src\\sysmem.c.obj"
 },
 {
-  "directory": "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug",
-  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Include\" -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMSIS/Core\" -I\"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK\" -g -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g3 -ggdb -o CMakeFiles\\f303-template_MAXCLK.dir\\Startup\\startup_stm32f303vctx.s.obj -c \"C:\\Users\\vmill\\Documents\\STM Projects\\f303-template_MAXCLK\\Startup\\startup_stm32f303vctx.s\"",
-  "file": "C:\\Users\\vmill\\Documents\\STM Projects\\f303-template_MAXCLK\\Startup\\startup_stm32f303vctx.s",
+  "directory": "./f303-template_MAXCLK/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F303xC -I\"./f303-template_MAXCLK/CMSIS/Include\" -I\"./f303-template_MAXCLK/CMSIS/Core\" -I\"./f303-template_MAXCLK\" -g -mcpu=cortex-m4 -mthumb -nostdlib -g -O0 -Wl,--no-warn-rwx-segments -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g3 -ggdb -o CMakeFiles\\f303-template_MAXCLK.dir\\Startup\\startup_stm32f303vctx.s.obj -c \"./f303-template_MAXCLK\\Startup\\startup_stm32f303vctx.s\"",
+  "file": "./f303-template_MAXCLK\\Startup\\startup_stm32f303vctx.s",
   "output": "CMakeFiles\\f303-template_MAXCLK.dir\\Startup\\startup_stm32f303vctx.s.obj"
 }
 ]

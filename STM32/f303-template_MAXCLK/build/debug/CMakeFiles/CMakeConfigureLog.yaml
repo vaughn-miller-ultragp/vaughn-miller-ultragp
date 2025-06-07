@@ -49,7 +49,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
       
       The C compiler identification is GNU, found in:
-        C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o
+        ./f303-template_MAXCLK/build/debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o
       
   -
     kind: "message-v1"
@@ -91,7 +91,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
       
       The CXX compiler identification is GNU, found in:
-        C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o
+        ./f303-template_MAXCLK/build/debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o
       
   -
     kind: "try_compile-v1"
@@ -102,8 +102,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-d4cnoq"
-      binary: "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-d4cnoq"
+      source: "./f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-d4cnoq"
+      binary: "./f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-d4cnoq"
     cmakeVariables:
       CMAKE_C_FLAGS: "-fdata-sections -ffunction-sections -Wl,--gc-sections"
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -113,7 +113,7 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-d4cnoq'
+        Change Dir: './f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-d4cnoq'
         
         Run Build Command(s): C:/ST/STM32CubeCLT_1.17.0/Ninja/bin/ninja.exe -v cmTC_10326
         [1/2] C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe   -fdata-sections -ffunction-sections -Wl,--gc-sections    -v -o CMakeFiles/cmTC_10326.dir/CMakeCCompilerABI.c.obj -c C:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCCompilerABI.c
@@ -190,7 +190,7 @@ events:
     message: |
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(arm-none-eabi-ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: 'C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-d4cnoq']
+        ignore line: [Change Dir: './f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-d4cnoq']
         ignore line: []
         ignore line: [Run Build Command(s): C:/ST/STM32CubeCLT_1.17.0/Ninja/bin/ninja.exe -v cmTC_10326]
         ignore line: [[1/2] C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe   -fdata-sections -ffunction-sections -Wl --gc-sections    -v -o CMakeFiles/cmTC_10326.dir/CMakeCCompilerABI.c.obj -c C:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCCompilerABI.c]
@@ -252,8 +252,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-7twgtu"
-      binary: "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-7twgtu"
+      source: "./f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-7twgtu"
+      binary: "./f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-7twgtu"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "-fdata-sections -ffunction-sections -Wl,--gc-sections -fno-rtti -fno-exceptions -fno-threadsafe-statics"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -263,7 +263,7 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-7twgtu'
+        Change Dir: './f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-7twgtu'
         
         Run Build Command(s): C:/ST/STM32CubeCLT_1.17.0/Ninja/bin/ninja.exe -v cmTC_611cb
         [1/2] C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-g++.exe   -fdata-sections -ffunction-sections -Wl,--gc-sections -fno-rtti -fno-exceptions -fno-threadsafe-statics    -v -o CMakeFiles/cmTC_611cb.dir/CMakeCXXCompilerABI.cpp.obj -c C:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp
@@ -358,7 +358,7 @@ events:
     message: |
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(arm-none-eabi-ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: 'C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-7twgtu']
+        ignore line: [Change Dir: './f303-template_MAXCLK/build/debug/CMakeFiles/CMakeScratch/TryCompile-7twgtu']
         ignore line: []
         ignore line: [Run Build Command(s): C:/ST/STM32CubeCLT_1.17.0/Ninja/bin/ninja.exe -v cmTC_611cb]
         ignore line: [[1/2] C:\\ST\\STM32CubeCLT_1.17.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-g++.exe   -fdata-sections -ffunction-sections -Wl --gc-sections -fno-rtti -fno-exceptions -fno-threadsafe-statics    -v -o CMakeFiles/cmTC_611cb.dir/CMakeCXXCompilerABI.cpp.obj -c C:/ST/STM32CubeCLT_1.17.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp]

@@ -1,3 +1,3 @@
-C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMakeFiles/f303-template_MAXCLK.dir
-C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMakeFiles/edit_cache.dir
-C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/CMakeFiles/rebuild_cache.dir
+./f303-template_MAXCLK/CMakeFiles/f303-template_MAXCLK.dir
+./f303-template_MAXCLK/CMakeFiles/edit_cache.dir
+./f303-template_MAXCLK/CMakeFiles/rebuild_cache.dir

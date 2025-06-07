@@ -179,7 +179,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug"
+			"value" : "./f303-template_MAXCLK/build/debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -631,7 +631,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug/CMakeFiles/pkgRedirects"
+			"value" : "./f303-template_MAXCLK/build/debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -691,7 +691,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK"
+			"value" : "./f303-template_MAXCLK"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/cmake/gcc-arm-none-eabi.cmake"
+			"value" : "./f303-template_MAXCLK/cmake/gcc-arm-none-eabi.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -1215,7 +1215,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/build/debug"
+			"value" : "./f303-template_MAXCLK/build/debug"
 		},
 		{
 			"name" : "f303-template_MAXCLK_IS_TOP_LEVEL",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK"
+			"value" : "./f303-template_MAXCLK"
 		}
 	],
 	"kind" : "cache",

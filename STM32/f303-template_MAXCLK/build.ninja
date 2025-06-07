@@ -47,7 +47,7 @@ build cmake_object_order_depends_target_f303-template_MAXCLK: phony || CMakeFile
 build CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj: C_COMPILER__f303-template_MAXCLK_unscanned_ C$:/Users/vmill/Documents/STM$ Projects/f303-template_MAXCLK/Src/main.c || cmake_object_order_depends_target_f303-template_MAXCLK
   DEP_FILE = CMakeFiles\f303-template_MAXCLK.dir\Src\main.c.obj.d
   FLAGS = -fdata-sections -ffunction-sections -Wl,--gc-sections -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter
-  INCLUDES = -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc"
+  INCLUDES = -I"./f303-template_MAXCLK/Inc"
   OBJECT_DIR = CMakeFiles\f303-template_MAXCLK.dir
   OBJECT_FILE_DIR = CMakeFiles\f303-template_MAXCLK.dir\Src
   TARGET_COMPILE_PDB = CMakeFiles\f303-template_MAXCLK.dir\
@@ -56,7 +56,7 @@ build CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj: C_COMPILER__f303-templ
 build CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj: C_COMPILER__f303-template_MAXCLK_unscanned_ C$:/Users/vmill/Documents/STM$ Projects/f303-template_MAXCLK/Src/syscall.c || cmake_object_order_depends_target_f303-template_MAXCLK
   DEP_FILE = CMakeFiles\f303-template_MAXCLK.dir\Src\syscall.c.obj.d
   FLAGS = -fdata-sections -ffunction-sections -Wl,--gc-sections -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter
-  INCLUDES = -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc"
+  INCLUDES = -I"./f303-template_MAXCLK/Inc"
   OBJECT_DIR = CMakeFiles\f303-template_MAXCLK.dir
   OBJECT_FILE_DIR = CMakeFiles\f303-template_MAXCLK.dir\Src
   TARGET_COMPILE_PDB = CMakeFiles\f303-template_MAXCLK.dir\
@@ -65,7 +65,7 @@ build CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj: C_COMPILER__f303-te
 build CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj: C_COMPILER__f303-template_MAXCLK_unscanned_ C$:/Users/vmill/Documents/STM$ Projects/f303-template_MAXCLK/Src/sysmem.c || cmake_object_order_depends_target_f303-template_MAXCLK
   DEP_FILE = CMakeFiles\f303-template_MAXCLK.dir\Src\sysmem.c.obj.d
   FLAGS = -fdata-sections -ffunction-sections -Wl,--gc-sections -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter
-  INCLUDES = -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/Inc"
+  INCLUDES = -I"./f303-template_MAXCLK/Inc"
   OBJECT_DIR = CMakeFiles\f303-template_MAXCLK.dir
   OBJECT_FILE_DIR = CMakeFiles\f303-template_MAXCLK.dir\Src
   TARGET_COMPILE_PDB = CMakeFiles\f303-template_MAXCLK.dir\
@@ -74,7 +74,7 @@ build CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj: C_COMPILER__f303-tem
 build CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj: ASM_COMPILER__f303-template_MAXCLK_unscanned_ C$:/Users/vmill/Documents/STM$ Projects/f303-template_MAXCLK/Startup/startup_stm32f303vctx.s || cmake_object_order_depends_target_f303-template_MAXCLK
   DEP_FILE = CMakeFiles\f303-template_MAXCLK.dir\Startup\startup_stm32f303vctx.s.obj.d
   FLAGS = -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP
-  INCLUDES = -I"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK"
+  INCLUDES = -I"./f303-template_MAXCLK"
   OBJECT_DIR = CMakeFiles\f303-template_MAXCLK.dir
   OBJECT_FILE_DIR = CMakeFiles\f303-template_MAXCLK.dir\Startup
   TARGET_COMPILE_PDB = CMakeFiles\f303-template_MAXCLK.dir\
@@ -90,10 +90,10 @@ build CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj: A
 
 build f303-template_MAXCLK.elf: C_EXECUTABLE_LINKER__f303-template_MAXCLK_ CMakeFiles/f303-template_MAXCLK.dir/Src/main.c.obj CMakeFiles/f303-template_MAXCLK.dir/Src/syscall.c.obj CMakeFiles/f303-template_MAXCLK.dir/Src/sysmem.c.obj CMakeFiles/f303-template_MAXCLK.dir/Startup/startup_stm32f303vctx.s.obj
   FLAGS = -fdata-sections -ffunction-sections -Wl,--gc-sections
-  LINK_FLAGS = "-TC:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/stm32f303vctx_FLASH.ld" -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wl,-Map=f303-template_MAXCLK.map -u _printf_float --specs=nosys.specs -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group -Wl,-z,max-page-size=8 -Wl,--print-memory-usage
-  LINK_PATH = -L"C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/f303-template_MAXCLK"
+  LINK_FLAGS = "-T./f303-template_MAXCLK/stm32f303vctx_FLASH.ld" -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wl,-Map=f303-template_MAXCLK.map -u _printf_float --specs=nosys.specs -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group -Wl,-z,max-page-size=8 -Wl,--print-memory-usage
+  LINK_PATH = -L"./f303-template_MAXCLK/f303-template_MAXCLK"
   OBJECT_DIR = CMakeFiles\f303-template_MAXCLK.dir
-  POST_BUILD = cmd.exe /C "cd /D "C:\Users\vmill\Documents\STM Projects\f303-template_MAXCLK" && arm-none-eabi-size "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/f303-template_MAXCLK.elf" && arm-none-eabi-objcopy -O ihex "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/f303-template_MAXCLK.elf" f303-template_MAXCLK.hex && arm-none-eabi-objcopy -O binary "C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK/f303-template_MAXCLK.elf" f303-template_MAXCLK.bin"
+  POST_BUILD = cmd.exe /C "cd /D "C:\Users\vmill\Documents\STM Projects\f303-template_MAXCLK" && arm-none-eabi-size "./f303-template_MAXCLK/f303-template_MAXCLK.elf" && arm-none-eabi-objcopy -O ihex "./f303-template_MAXCLK/f303-template_MAXCLK.elf" f303-template_MAXCLK.hex && arm-none-eabi-objcopy -O binary "./f303-template_MAXCLK/f303-template_MAXCLK.elf" f303-template_MAXCLK.bin"
   PRE_LINK = cd .
   TARGET_COMPILE_PDB = CMakeFiles\f303-template_MAXCLK.dir\
   TARGET_FILE = f303-template_MAXCLK.elf
@@ -134,7 +134,7 @@ build f303-template_MAXCLK: phony f303-template_MAXCLK.elf
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/vmill/Documents/STM Projects/f303-template_MAXCLK
+# Folder: ./f303-template_MAXCLK
 
 build all: phony f303-template_MAXCLK.elf
 
