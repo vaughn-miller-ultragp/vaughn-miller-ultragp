@@ -1,1 +1,3 @@
 6/5/25 - Figure out how to rename all files and directories that contain a phrase in a directory
+6/6/25 - Frickin remake the cube ide project with relative paths for CMSIS and stuff so this project doesn't look insane :(
+    

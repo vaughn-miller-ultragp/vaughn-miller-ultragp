@@ -1,3 +1,0 @@
-./f303-template_MAXCLK/build/debug/CMakeFiles/f303-template_MAXCLK.dir
-./f303-template_MAXCLK/build/debug/CMakeFiles/edit_cache.dir
-./f303-template_MAXCLK/build/debug/CMakeFiles/rebuild_cache.dir
