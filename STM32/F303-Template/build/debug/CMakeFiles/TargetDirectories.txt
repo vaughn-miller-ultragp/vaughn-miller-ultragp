@@ -1,0 +1,3 @@
+C:/Users/vmill/Documents/REPOSITORY/vaughn-miller-ultragp/STM32/F303-Template/build/debug/CMakeFiles/F303-Template.dir
+C:/Users/vmill/Documents/REPOSITORY/vaughn-miller-ultragp/STM32/F303-Template/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/vmill/Documents/REPOSITORY/vaughn-miller-ultragp/STM32/F303-Template/build/debug/CMakeFiles/rebuild_cache.dir
