@@ -1,10 +1,7 @@
 # ninja log v5
 18	95	7711108938276095	CMakeFiles/F303-Template.dir/Startup/startup_stm32f303vctx.s.obj	e17f141503d5ea31
-9	182	7711108939146294	CMakeFiles/F303-Template.dir/Src/main.c.obj	a3b90475be0db77b
-14	238	7711108939706419	CMakeFiles/F303-Template.dir/Src/sysmem.c.obj	678b24b83d07ece5
-5	328	7711108940596637	CMakeFiles/F303-Template.dir/CMSIS/Source/system_stm32f3xx.c.obj	fa97472a7b33a149
-11	521	7711108942537058	CMakeFiles/F303-Template.dir/Src/syscall.c.obj	b51caf39e61efbb2
-6	164	7711113571914751	CMakeFiles/F303-Template.dir/Src/syscall.c.obj	b51caf39e61efbb2
-165	453	7711113572794956	F303-Template.elf	71214f1a7200ada0
 22	242	7711113907253225	CMakeFiles/F303-Template.dir/Src/main.c.obj	a3b90475be0db77b
 243	421	7711113908183414	F303-Template.elf	71214f1a7200ada0
+14	238	7711108939706419	CMakeFiles/F303-Template.dir/Src/sysmem.c.obj	678b24b83d07ece5
+5	328	7711108940596637	CMakeFiles/F303-Template.dir/CMSIS/Source/system_stm32f3xx.c.obj	fa97472a7b33a149
+6	164	7711113571914751	CMakeFiles/F303-Template.dir/Src/syscall.c.obj	b51caf39e61efbb2
