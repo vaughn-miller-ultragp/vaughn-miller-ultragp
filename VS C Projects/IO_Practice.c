@@ -120,31 +120,56 @@ void exercise1_11()
     holds up. ***A very large input could overflow each variable eventually, also.***
 */
 
-void exercise1_12()
+int exercise1_13()
 {
     int IN = 1;
     int OUT = 0;
+    int MAXSIZE = 50;
 
-    int c, state, len;
+    int c, i, state;
 
-    int *buf;
+    state = OUT;
+    i = 0;
 
-    state = len = OUT;
+    int *wordlen = calloc(MAXSIZE, sizeof(int));
 
+    if(wordlen == NULL){
+        printf("Allocation failed. Exiting...\n");
+        return 1;
+    }
 
-    while((c = getchar()) != EOF){
-       
+    while((c = getchar()) != EOF && i < MAXSIZE){
+
         if(c == ' ' || c == '\t' || c == '\n'){
+            if(i > 0){
+                wordlen[i] = wordlen[i] + 1;
+            }
             state = OUT;
-            printf("\n");
+            i = 0;
         }
         else if(state == OUT){
             state = IN;
         }
         if(state == IN){
-            printf("%c", c);
+            i++;
         }
     }
+
+    if(i >= MAXSIZE){
+        printf("Single word length of (%d) exceeded. Exiting...", MAXSIZE);
+        return 1;
+    }
+    
+    for(i = 0; i < MAXSIZE; i++){
+        if(wordlen[i] > 0){
+            printf("%d-len amt:", i);
+            for(int j = 0; j < wordlen[i]; j++)
+                printf("+");
+            printf("\n");
+        }
+    }
+    free(wordlen);
+    return 0;
     
 }
 
@@ -156,7 +181,7 @@ void main()
     //exercise1_9();
     //exercise1_10();
     //exercise1_11();
-    exercise1_12();
+    exercise1_13();
 
 
     
