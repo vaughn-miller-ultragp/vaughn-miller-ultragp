@@ -157,7 +157,7 @@ int exercise1_13()
 
     if(i >= MAXSIZE){
         printf("Single word length of (%d) exceeded. Exiting...", MAXSIZE);
-        return 1;
+        return 2;
     }
     
     for(i = 0; i < MAXSIZE; i++){
@@ -173,6 +173,59 @@ int exercise1_13()
     
 }
 
+int exercise1_14(){
+    int IN = 1;
+    int OUT = 0;
+    int MAXSIZE = 128;
+
+    int c;
+
+    int maxfreq = 0;
+
+    int *charfreq = calloc(MAXSIZE, sizeof(int));
+
+    if(charfreq == NULL){
+        printf("Allocation failed. Exiting...\n");
+        return 1;
+    }
+
+    while((c = getchar()) != EOF){
+        charfreq[c] = charfreq[c] + 1;
+    }
+
+    for(int i = 0; i < MAXSIZE; i++){
+            if(charfreq[i] > maxfreq) maxfreq = charfreq[i];
+    }
+
+    
+    for(int i = maxfreq; i >= 0; i--){
+        for(int j = 0; j < MAXSIZE; j++){
+            if(charfreq[j] > 0){
+                if(charfreq[j] >= i && i > 0){
+                    printf("+");
+                }
+                else if(charfreq[j] < i && i > 0){
+                    printf(" ");
+                }
+                else{
+                    if(j == '\n')
+                        printf("\\n");
+                    else if(j == '\t')
+                        printf("\\t");
+                    else if(j == ' ')
+                        printf("SP");
+                    else
+                        printf("%c", j);
+                }
+                printf("\t");
+            }
+        }
+        printf("\n");
+    }
+    free(charfreq);
+    return 0;
+}
+
 
 void main()
 {
@@ -181,8 +234,8 @@ void main()
     //exercise1_9();
     //exercise1_10();
     //exercise1_11();
-    exercise1_13();
-
+    //exercise1_13();
+    exercise1_14();
 
     
 }
