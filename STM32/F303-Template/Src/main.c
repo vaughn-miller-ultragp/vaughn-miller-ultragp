@@ -34,7 +34,8 @@ static void startGPIO(void)
     RCC->AHBENR     |= RCC_AHBENR_GPIOEEN;
     GPIOE->MODER    |= (OUTPUT_MODE << GPIO_MODER_MODER8_Pos);
     GPIOE->ODR      |= GPIO_ODR_8;
-
+    
+    
 }
 
 
@@ -64,7 +65,7 @@ static void startTIM(void)
     
     TIM6->EGR       |= TIM_EGR_UG;
     //Start Counter
-    TIM6->CR1       &= ~(TIM_CR1_CEN);
+    TIM6->CR1       |= TIM_CR1_CEN;
 
 }
 
@@ -76,7 +77,7 @@ int main(void)
     startGPIO();
     startTIM();
 
-    TIM6->CR1       |= TIM_CR1_CEN;
+    
     
     while(1){
 

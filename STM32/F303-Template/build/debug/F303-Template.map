@@ -545,7 +545,7 @@ LOAD CMakeFiles/F303-Template.dir/Startup/startup_stm32f303vctx.s.obj
                 0x08000000                g_pfnVectors
                 0x08000194                        . = ALIGN (0x4)
 
-.text           0x08000194      0x26c
+.text           0x08000194      0x264
                 0x08000194                        . = ALIGN (0x4)
  *(.text)
  *(.text*)
@@ -555,172 +555,172 @@ LOAD CMakeFiles/F303-Template.dir/Startup/startup_stm32f303vctx.s.obj
                 0x08000244       0x68 CMakeFiles/F303-Template.dir/CMSIS/Source/system_stm32f3xx.c.obj
                 0x08000244                SystemInit
  .text.startGPIO
-                0x080002ac       0x28 CMakeFiles/F303-Template.dir/Src/main.c.obj
+                0x080002ac       0x30 CMakeFiles/F303-Template.dir/Src/main.c.obj
  .text.startTIM
-                0x080002d4       0x54 CMakeFiles/F303-Template.dir/Src/main.c.obj
- .text.main     0x08000328       0x1c CMakeFiles/F303-Template.dir/Src/main.c.obj
-                0x08000328                main
+                0x080002dc       0x54 CMakeFiles/F303-Template.dir/Src/main.c.obj
+ .text.main     0x08000330        0xc CMakeFiles/F303-Template.dir/Src/main.c.obj
+                0x08000330                main
  .text.TIM6_DACUNDER_IRQHandler
-                0x08000344       0x1c CMakeFiles/F303-Template.dir/Src/main.c.obj
-                0x08000344                TIM6_DACUNDER_IRQHandler
- .text._init    0x08000360        0x2 CMakeFiles/F303-Template.dir/Src/syscall.c.obj
-                0x08000360                _init
- *fill*         0x08000362        0x2 
+                0x0800033c       0x1c CMakeFiles/F303-Template.dir/Src/main.c.obj
+                0x0800033c                TIM6_DACUNDER_IRQHandler
+ .text._init    0x08000358        0x2 CMakeFiles/F303-Template.dir/Src/syscall.c.obj
+                0x08000358                _init
+ *fill*         0x0800035a        0x2 
  .text.Reset_Handler
-                0x08000364       0x50 CMakeFiles/F303-Template.dir/Startup/startup_stm32f303vctx.s.obj
-                0x08000364                Reset_Handler
+                0x0800035c       0x50 CMakeFiles/F303-Template.dir/Startup/startup_stm32f303vctx.s.obj
+                0x0800035c                Reset_Handler
  .text.Default_Handler
-                0x080003b4        0x2 CMakeFiles/F303-Template.dir/Startup/startup_stm32f303vctx.s.obj
-                0x080003b4                TIM8_TRG_COM_IRQHandler
-                0x080003b4                TIM8_CC_IRQHandler
-                0x080003b4                DMA1_CH4_IRQHandler
-                0x080003b4                SPI4_IRQHandler
-                0x080003b4                TIM1_CC_IRQHandler
-                0x080003b4                HardFault_Handler
-                0x080003b4                USB_HP_IRQHandler
-                0x080003b4                I2C2_EV_EXTI24_IRQHandler
-                0x080003b4                SysTick_Handler
-                0x080003b4                USB_WKUP_EXTI_IRQHandler
-                0x080003b4                PVD_IRQHandler
-                0x080003b4                UART4_EXTI34_IRQHandler
-                0x080003b4                TAMP_STAMP_IRQHandler
-                0x080003b4                PendSV_Handler
-                0x080003b4                NMI_Handler
-                0x080003b4                EXTI3_IRQHandler
-                0x080003b4                I2C3_ER_IRQHandler
-                0x080003b4                USB_HP_CAN_TX_IRQHandler
-                0x080003b4                EXTI0_IRQHandler
-                0x080003b4                DMA2_CH1_IRQHandler
-                0x080003b4                TIM1_UP_TIM16_IRQHandler
-                0x080003b4                UsageFault_Handler
-                0x080003b4                ADC1_2_IRQHandler
-                0x080003b4                SPI1_IRQHandler
-                0x080003b4                CAN_SCE_IRQHandler
-                0x080003b4                DMA1_CH7_IRQHandler
-                0x080003b4                TIM8_UP_IRQHandler
-                0x080003b4                COMP456_IRQHandler
-                0x080003b4                DMA1_CH6_IRQHandler
-                0x080003b4                TIM20_TRG_COM_IRQHandler
-                0x080003b4                ADC3_IRQHandler
-                0x080003b4                TIM4_IRQHandler
-                0x080003b4                CAN_RX1_IRQHandler
-                0x080003b4                USART1_EXTI25_IRQHandler
-                0x080003b4                DMA2_CH5_IRQHandler
-                0x080003b4                I2C1_EV_EXTI23_IRQHandler
-                0x080003b4                DMA1_CH3_IRQHandler
-                0x080003b4                TIM3_IRQHandler
-                0x080003b4                RCC_IRQHandler
-                0x080003b4                TIM20_UP_IRQHandler
-                0x080003b4                Default_Handler
-                0x080003b4                EXTI15_10_IRQHandler
-                0x080003b4                USART2_EXTI26_IRQHandler
-                0x080003b4                USART3_EXTI28_IRQHandler
-                0x080003b4                TIM7_IRQHandler
-                0x080003b4                I2C3_EV_IRQHandler
-                0x080003b4                EXTI9_5_IRQHandler
-                0x080003b4                DMA1_CH2_IRQHandler
-                0x080003b4                RTC_WKUP_IRQHandler
-                0x080003b4                SPI2_IRQHandler
-                0x080003b4                DMA1_CH1_IRQHandler
-                0x080003b4                USB_LP_CAN_RX0_IRQHandler
-                0x080003b4                MemManage_Handler
-                0x080003b4                COMP123_IRQHandler
-                0x080003b4                SVC_Handler
-                0x080003b4                USB_LP_IRQHandler
-                0x080003b4                EXTI4_IRQHandler
-                0x080003b4                TIM1_TRG_COM_TIM17_IRQHandler
-                0x080003b4                ADC4_IRQHandler
-                0x080003b4                WWDG_IRQHandler
-                0x080003b4                TIM2_IRQHandler
-                0x080003b4                COMP7_IRQHandler
-                0x080003b4                EXTI1_IRQHandler
-                0x080003b4                RTCAlarm_IRQHandler
-                0x080003b4                UART5_EXTI35_IRQHandler
-                0x080003b4                TIM20_BRK_IRQHandler
-                0x080003b4                I2C2_ER_IRQHandler
-                0x080003b4                TIM8_BRK_IRQHandler
-                0x080003b4                FLASH_IRQHandler
-                0x080003b4                TIM20_CC_IRQHandler
-                0x080003b4                BusFault_Handler
-                0x080003b4                SPI3_IRQHandler
-                0x080003b4                DMA2_CH3_IRQHandler
-                0x080003b4                DMA2_CH2_IRQHandler
-                0x080003b4                I2C1_ER_IRQHandler
-                0x080003b4                FMC_IRQHandler
-                0x080003b4                DMA1_CH5_IRQHandler
-                0x080003b4                DMA2_CH4_IRQHandler
-                0x080003b4                USB_WKUP_IRQHandler
-                0x080003b4                EXTI2_TSC_IRQHandler
-                0x080003b4                TIM1_BRK_TIM15_IRQHandler
- *fill*         0x080003b6        0x2 
+                0x080003ac        0x2 CMakeFiles/F303-Template.dir/Startup/startup_stm32f303vctx.s.obj
+                0x080003ac                TIM8_TRG_COM_IRQHandler
+                0x080003ac                TIM8_CC_IRQHandler
+                0x080003ac                DMA1_CH4_IRQHandler
+                0x080003ac                SPI4_IRQHandler
+                0x080003ac                TIM1_CC_IRQHandler
+                0x080003ac                HardFault_Handler
+                0x080003ac                USB_HP_IRQHandler
+                0x080003ac                I2C2_EV_EXTI24_IRQHandler
+                0x080003ac                SysTick_Handler
+                0x080003ac                USB_WKUP_EXTI_IRQHandler
+                0x080003ac                PVD_IRQHandler
+                0x080003ac                UART4_EXTI34_IRQHandler
+                0x080003ac                TAMP_STAMP_IRQHandler
+                0x080003ac                PendSV_Handler
+                0x080003ac                NMI_Handler
+                0x080003ac                EXTI3_IRQHandler
+                0x080003ac                I2C3_ER_IRQHandler
+                0x080003ac                USB_HP_CAN_TX_IRQHandler
+                0x080003ac                EXTI0_IRQHandler
+                0x080003ac                DMA2_CH1_IRQHandler
+                0x080003ac                TIM1_UP_TIM16_IRQHandler
+                0x080003ac                UsageFault_Handler
+                0x080003ac                ADC1_2_IRQHandler
+                0x080003ac                SPI1_IRQHandler
+                0x080003ac                CAN_SCE_IRQHandler
+                0x080003ac                DMA1_CH7_IRQHandler
+                0x080003ac                TIM8_UP_IRQHandler
+                0x080003ac                COMP456_IRQHandler
+                0x080003ac                DMA1_CH6_IRQHandler
+                0x080003ac                TIM20_TRG_COM_IRQHandler
+                0x080003ac                ADC3_IRQHandler
+                0x080003ac                TIM4_IRQHandler
+                0x080003ac                CAN_RX1_IRQHandler
+                0x080003ac                USART1_EXTI25_IRQHandler
+                0x080003ac                DMA2_CH5_IRQHandler
+                0x080003ac                I2C1_EV_EXTI23_IRQHandler
+                0x080003ac                DMA1_CH3_IRQHandler
+                0x080003ac                TIM3_IRQHandler
+                0x080003ac                RCC_IRQHandler
+                0x080003ac                TIM20_UP_IRQHandler
+                0x080003ac                Default_Handler
+                0x080003ac                EXTI15_10_IRQHandler
+                0x080003ac                USART2_EXTI26_IRQHandler
+                0x080003ac                USART3_EXTI28_IRQHandler
+                0x080003ac                TIM7_IRQHandler
+                0x080003ac                I2C3_EV_IRQHandler
+                0x080003ac                EXTI9_5_IRQHandler
+                0x080003ac                DMA1_CH2_IRQHandler
+                0x080003ac                RTC_WKUP_IRQHandler
+                0x080003ac                SPI2_IRQHandler
+                0x080003ac                DMA1_CH1_IRQHandler
+                0x080003ac                USB_LP_CAN_RX0_IRQHandler
+                0x080003ac                MemManage_Handler
+                0x080003ac                COMP123_IRQHandler
+                0x080003ac                SVC_Handler
+                0x080003ac                USB_LP_IRQHandler
+                0x080003ac                EXTI4_IRQHandler
+                0x080003ac                TIM1_TRG_COM_TIM17_IRQHandler
+                0x080003ac                ADC4_IRQHandler
+                0x080003ac                WWDG_IRQHandler
+                0x080003ac                TIM2_IRQHandler
+                0x080003ac                COMP7_IRQHandler
+                0x080003ac                EXTI1_IRQHandler
+                0x080003ac                RTCAlarm_IRQHandler
+                0x080003ac                UART5_EXTI35_IRQHandler
+                0x080003ac                TIM20_BRK_IRQHandler
+                0x080003ac                I2C2_ER_IRQHandler
+                0x080003ac                TIM8_BRK_IRQHandler
+                0x080003ac                FLASH_IRQHandler
+                0x080003ac                TIM20_CC_IRQHandler
+                0x080003ac                BusFault_Handler
+                0x080003ac                SPI3_IRQHandler
+                0x080003ac                DMA2_CH3_IRQHandler
+                0x080003ac                DMA2_CH2_IRQHandler
+                0x080003ac                I2C1_ER_IRQHandler
+                0x080003ac                FMC_IRQHandler
+                0x080003ac                DMA1_CH5_IRQHandler
+                0x080003ac                DMA2_CH4_IRQHandler
+                0x080003ac                USB_WKUP_IRQHandler
+                0x080003ac                EXTI2_TSC_IRQHandler
+                0x080003ac                TIM1_BRK_TIM15_IRQHandler
+ *fill*         0x080003ae        0x2 
  .text.__libc_init_array
-                0x080003b8       0x48 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
-                0x080003b8                __libc_init_array
+                0x080003b0       0x48 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(libc_a-init.o)
+                0x080003b0                __libc_init_array
  *(.glue_7)
- .glue_7        0x08000400        0x0 linker stubs
+ .glue_7        0x080003f8        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x08000400        0x0 linker stubs
+ .glue_7t       0x080003f8        0x0 linker stubs
  *(.eh_frame)
  *(.init)
  *(.fini)
-                0x08000400                        . = ALIGN (0x4)
-                0x08000400                        _etext = .
+                0x080003f8                        . = ALIGN (0x4)
+                0x080003f8                        _etext = .
 
-.vfp11_veneer   0x08000400        0x0
- .vfp11_veneer  0x08000400        0x0 linker stubs
+.vfp11_veneer   0x080003f8        0x0
+ .vfp11_veneer  0x080003f8        0x0 linker stubs
 
-.v4_bx          0x08000400        0x0
- .v4_bx         0x08000400        0x0 linker stubs
+.v4_bx          0x080003f8        0x0
+ .v4_bx         0x080003f8        0x0 linker stubs
 
-.iplt           0x08000400        0x0
- .iplt          0x08000400        0x0 CMakeFiles/F303-Template.dir/CMSIS/Source/system_stm32f3xx.c.obj
+.iplt           0x080003f8        0x0
+ .iplt          0x080003f8        0x0 CMakeFiles/F303-Template.dir/CMSIS/Source/system_stm32f3xx.c.obj
 
-.rel.dyn        0x08000400        0x0
- .rel.iplt      0x08000400        0x0 CMakeFiles/F303-Template.dir/CMSIS/Source/system_stm32f3xx.c.obj
+.rel.dyn        0x080003f8        0x0
+ .rel.iplt      0x080003f8        0x0 CMakeFiles/F303-Template.dir/CMSIS/Source/system_stm32f3xx.c.obj
 
-.rodata         0x08000400        0x0
-                0x08000400                        . = ALIGN (0x4)
+.rodata         0x080003f8        0x0
+                0x080003f8                        . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
-                0x08000400                        . = ALIGN (0x4)
+                0x080003f8                        . = ALIGN (0x4)
 
-.ARM.extab      0x08000400        0x0
-                0x08000400                        . = ALIGN (0x4)
+.ARM.extab      0x080003f8        0x0
+                0x080003f8                        . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x08000400                        . = ALIGN (0x4)
+                0x080003f8                        . = ALIGN (0x4)
 
-.ARM            0x08000400        0x0
-                0x08000400                        . = ALIGN (0x4)
-                0x08000400                        __exidx_start = .
+.ARM            0x080003f8        0x0
+                0x080003f8                        . = ALIGN (0x4)
+                0x080003f8                        __exidx_start = .
  *(.ARM.exidx*)
-                0x08000400                        __exidx_end = .
-                0x08000400                        . = ALIGN (0x4)
+                0x080003f8                        __exidx_end = .
+                0x080003f8                        . = ALIGN (0x4)
 
-.preinit_array  0x08000400        0x0
-                0x08000400                        . = ALIGN (0x4)
-                0x08000400                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x080003f8        0x0
+                0x080003f8                        . = ALIGN (0x4)
+                0x080003f8                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08000400                        PROVIDE (__preinit_array_end = .)
-                0x08000400                        . = ALIGN (0x4)
+                0x080003f8                        PROVIDE (__preinit_array_end = .)
+                0x080003f8                        . = ALIGN (0x4)
 
-.init_array     0x08000400        0x0
-                0x08000400                        . = ALIGN (0x4)
-                0x08000400                        PROVIDE (__init_array_start = .)
+.init_array     0x080003f8        0x0
+                0x080003f8                        . = ALIGN (0x4)
+                0x080003f8                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
-                0x08000400                        PROVIDE (__init_array_end = .)
-                0x08000400                        . = ALIGN (0x4)
+                0x080003f8                        PROVIDE (__init_array_end = .)
+                0x080003f8                        . = ALIGN (0x4)
 
-.fini_array     0x08000400        0x0
-                0x08000400                        . = ALIGN (0x4)
+.fini_array     0x080003f8        0x0
+                0x080003f8                        . = ALIGN (0x4)
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x08000400                        . = ALIGN (0x4)
-                0x08000400                        _sidata = LOADADDR (.data)
+                0x080003f8                        . = ALIGN (0x4)
+                0x080003f8                        _sidata = LOADADDR (.data)
 
-.data           0x20000000        0x0 load address 0x08000400
+.data           0x20000000        0x0 load address 0x080003f8
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -729,12 +729,12 @@ LOAD CMakeFiles/F303-Template.dir/Startup/startup_stm32f303vctx.s.obj
  *(.RamFunc*)
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _edata = .
-                0x08000400                        _siccmram = LOADADDR (.ccmram)
+                0x080003f8                        _siccmram = LOADADDR (.ccmram)
 
-.igot.plt       0x20000000        0x0 load address 0x08000400
+.igot.plt       0x20000000        0x0 load address 0x080003f8
  .igot.plt      0x20000000        0x0 CMakeFiles/F303-Template.dir/CMSIS/Source/system_stm32f3xx.c.obj
 
-.ccmram         0x10000000        0x0 load address 0x08000400
+.ccmram         0x10000000        0x0 load address 0x080003f8
                 0x10000000                        . = ALIGN (0x4)
                 0x10000000                        _sccmram = .
  *(.ccmram)

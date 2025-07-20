@@ -5,3 +5,9 @@
 14	238	7711108939706419	CMakeFiles/F303-Template.dir/Src/sysmem.c.obj	678b24b83d07ece5
 5	328	7711108940596637	CMakeFiles/F303-Template.dir/CMSIS/Source/system_stm32f3xx.c.obj	fa97472a7b33a149
 6	164	7711113571914751	CMakeFiles/F303-Template.dir/Src/syscall.c.obj	b51caf39e61efbb2
+24	272	7746816646698744	CMakeFiles/F303-Template.dir/Startup/startup_stm32f303vctx.s.obj	e17f141503d5ea31
+22	277	7746816646738759	CMakeFiles/F303-Template.dir/Src/sysmem.c.obj	678b24b83d07ece5
+18	283	7746816646798768	CMakeFiles/F303-Template.dir/Src/syscall.c.obj	b51caf39e61efbb2
+12	323	7746816647198870	CMakeFiles/F303-Template.dir/CMSIS/Source/system_stm32f3xx.c.obj	fa97472a7b33a149
+16	327	7746816647228884	CMakeFiles/F303-Template.dir/Src/main.c.obj	a3b90475be0db77b
+327	705	7746816648959258	F303-Template.elf	71214f1a7200ada0
